@@ -9,7 +9,7 @@ I have made this repo inorder to keep a log of my progress, it will make me more
 4. Solve Problems on CodeChef (on weekends ).
 5. Study for College ;( (4 hours).
 6. Learn ML for atleast 1 and a half hour daily.
-7. Workon improving Communication Skills atleat for an half hour.
+7. Workon improving Communication Skills atleast for half an hour.
 8. Make YouTube Videos (on weekends).
 9. Daily Meditation (Morning 10mins).
 
