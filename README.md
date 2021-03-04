@@ -15,7 +15,7 @@ I have made this repo inorder to keep a log of my progress, it will make me more
 
 ## Log
 
-### Tasks Completed At the Month END :
+### Tasks Completed During the Month :
 - [ ] Work on personal Projects (on weekends).
 - [ ] Study Python (on Saturdays...).
 - [ ] Workon opensource projects (Sundays...).
