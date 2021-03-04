@@ -1,6 +1,6 @@
 # Progress Tracker
 
-I have made this repo inorder to keep a log of my progress, it will make me more determined towards  my goal. [ cuz i'm a lethargic ;) ]
+I have made this repo inorder to keep a log of my progress, it will make me more determined towards  my goal. [ cuz i'm lethargic ;) ]
 
 ## General Tasks
 1. Work on personal Projects (on weekends).
@@ -13,7 +13,7 @@ I have made this repo inorder to keep a log of my progress, it will make me more
 8. Make YouTube Videos (on weekends).
 9. Daily Meditation (Morning 10mins).
 
-
+## Log
 
 ### Tasks Completed At the Month END :
 - [ ] Work on personal Projects (on weekends).
